@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "earnings_calls_reminder"
+version = "0.1.0"
+description = ""
+authors = ["Dipam Vasani <dipam44@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+yahoo-earnings-calendar = "^0.6.0"
+rumps = "^0.3.0"
+papermill = "^2.3.4"
+notebook = "^6.4.10"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
