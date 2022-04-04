@@ -11,4 +11,23 @@ ROKU
 TTD
 ```
 
- We check for the next earnings date for all these tickers, and if it falls in the upcoming week, then we add reminder (in the form of notification, email, text, calendar, etc)
+We check for the next earnings date for all these tickers, and if it falls in the upcoming week, then we add reminder (in the form of notification, email, text, calendar, etc)
+
+## Installation
+
+Poetry installation [instructions](https://python-poetry.org/docs/)
+
+Installing python requirements
+```
+poetry install
+```
+
+updating requirements
+```
+poetry update
+```
+
+Activating shell
+```
+poetry shell
+```
