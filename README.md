@@ -31,3 +31,7 @@ Activating shell
 ```
 poetry shell
 ```
+
+## Based on
+
+[yahoo-earnings-calendar](https://github.com/wenboyu2/yahoo-earnings-calendar)
